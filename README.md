@@ -1,6 +1,6 @@
 # Mindwell
 Serverless AI emotional wellness platform built on AWS: submitted to the AWS Prompt the Planet Challenge
-# Mind-well — AI Emotional Wellness Agent
+
 
 > *Helping people understand and manage their emotions by turning daily thoughts into structured reflection, mood awareness, and gentle self-care guidance.*
 
