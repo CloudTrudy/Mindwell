@@ -38,7 +38,7 @@ Mind-well acts as an AI emotional reflection companion. Instead of unstructured 
 
 ## AWS Architecture
 
-This project uses a fully serverless AWS backend — no servers to manage, scales automatically, and costs near zero at low usage.
+This project uses a fully serverless AWS backend no servers to manage, scales automatically, and costs near zero at low usage.
 
 ### Services Used
 
