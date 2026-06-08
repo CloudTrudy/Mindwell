@@ -10,7 +10,7 @@ Serverless AI emotional wellness platform built on AWS: submitted to the AWS Pro
 
 Mind-well is a serverless AI emotional wellness platform that helps users journal daily thoughts, track emotional patterns, and receive personalised reflections. Users simply type how they feel and the app responds with structured emotional insight, mood summaries, and gentle self-care suggestions.
 
-The platform addresses a real problem — many people struggle to process their emotions, and traditional journaling lacks guidance. Mind-well solves this using AI to analyse emotional tone, generate meaningful reflections, and optionally connect users with peer support communities.
+The platform addresses a real problem  many people struggle to process their emotions, and traditional journaling lacks guidance. Mind-well solves this using AI to analyse emotional tone, generate meaningful reflections, and optionally connect users with peer support communities.
 
 ---
 
